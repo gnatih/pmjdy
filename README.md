@@ -2,14 +2,15 @@
 
 Making sense of PMJDY (Pradhan Mantri Jan Dhan Yojana) data
 
+This is a fork of [pratapvardhan/pmjdy](https://github.com/pratapvardhan/pmjdy) , for updating data to latest.
+
 ## Data
 
-Data is pulled up from the [pmjdy archive](https://www.pmjdy.gov.in/archive)
-
-- [Consolidated CSV file](https://github.com/pratapvardhan/pmjdy/blob/master/data/data.csv)
-- [Weekly CSV files](https://github.com/pratapvardhan/pmjdy/tree/master/data/csv) 
-    - Since [September 24, 2014](https://github.com/pratapvardhan/pmjdy/blob/master/data/csv/2014-09-24.csv)
-    - Till last week
+- Data is pulled up from the [pmjdy archive](https://www.pmjdy.gov.in/archive)
+- See `data/data.csv` for consolidated
+- Start date: September 24, 2014
+- End date: Decempter 19, 2014
+- Data missing for dates: 2018-07-25, 2018-05-16
 
 ### Citation
 
